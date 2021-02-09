@@ -3,9 +3,8 @@ HELP.md
 
 ### IntelliJ IDEA ###
 .idea
-.doc
-.patch
 
 *.iws
 *.iml
 *.ipr
+/doc/
